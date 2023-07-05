@@ -1,9 +1,7 @@
-I’m Gabriel Lucero (@Nectama), frontend developer learning the basics and making some projects.
-I work with HTML5|CSS3 & Javascript
-I’m interested in learning React.Js in the future and to develop myself as a frontend dev (and maybe add some knowledge in backend)
+I’m Gabriel Lucero (@Nectama), frontend developer learning everything that catches my attention.
+I work with React.Js, Javascript vanilla & HTML|CSS.
 
-Currently learning more Javascript and looking for my first job in the IT world
-I’m looking to collaborate on challenging projects, although i might not yet be a very efficient dev, I love challenges that make me learn and grow.
+Currently working on individual projects as a freelancer dev and looking for my first full-tim job in the IT world.
 
 You can contact me through the following:
  phone: +5493517872524
